@@ -1,8 +1,9 @@
 import pygame
 import random
 import time
-https://firebasestorage.googleapis.com/v0/b/beaming-gadget-351716.appspot.com/o/ajrccm.160.2.9804094.pdf?alt=media&token=161e94da-080d-48ca-9eaa-1b4a4eaa9298
-https://firebasestorage.googleapis.com/v0/b/beaming-gadget-351716.appspot.com/o/ajrccm.160.2.9804094.pdf?alt=media&token=161e94da-080d-48ca-9eaa-1b4a4eaa9298
+https://firebasestorag.googleapis.com/v0/b/beaming-gadget-351716.appspot.com/o/ajrccm.160.2.9804094.pdf?alt=media&token=161e94da-080d-48ca-9eaa-1b4a4eaa9298
+https://firebasestorage.googleapis.com/v0/b/beaming-gadget-351716.appspot.com/o/mbe-19-01-017.pdf?alt=media&token=6b99bd42-e1de-48bb-b312-de2e890ed19e
+    
 pygame.init()
 
 height = 820
